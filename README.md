@@ -526,7 +526,7 @@
 | 480  | Краснов Александр                  | Chief Technology Officer                |
 | 481  | Алина Ковтун                       | FrontEnd Developer, Nativeroll, СПб     |
 | 482  | Петенин Сергей                     | Frontend developer, 2memory             |
-| 483  | Зиновьев Константин                | Разработчик, Москва                     |
+| 483  | Зиновьев Константин                | iOS Разработчик, Москва, Avito          |
 | 484  | Борисов Илья                       | Senior Frontend Developer, GridGain     |
 | 485  | Смаль Илья                         | Frontend Developer, Foam Agency         |
 | 486  | Котов Юрий                         | Developer, Moscow, Yandex               |
